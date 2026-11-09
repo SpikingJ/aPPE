@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+data/
+outputs*/
+results*/
+logs*/
+figures*/
+zoo_sb*/
+work_sb*/
+assets_sb/
+sionna-bench/
+campaign/
+models/
+*.npz
+*.lock
